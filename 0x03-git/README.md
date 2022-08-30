@@ -1,1 +1,1 @@
-This is a journey to code fury
+I finally succeeded with code fury road
